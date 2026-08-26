@@ -3,12 +3,12 @@ Hallo, Namaku Agung! 👋<br><br>
 Saya saat ini sedang menempuh pendidikan di Universitas Jember, Program Studi Informatika. <br>
 Perjalanan coding saya didorong oleh rasa ingin tahu yang tinggi, mulai dari merancang algoritma dasar, membangun aplikasi *web* dan *mobile* yang interaktif, hingga mengolah data menggunakan *Machine Learning*.
 
-## 🚀 What I'm Currently Working On:
-*   🛒 **Designly:** Mengembangkan *creative marketplace platform* menggunakan arsitektur Next.js di *frontend* serta integrasi Laravel dan Node.js di *backend*.
-*   🤖 **UKT Prediction Model:** Membangun sistem prediksi otomatis menggunakan algoritma *Support Vector Machine* (SVM) dengan Python.
-*   🍽️ **Seatly:** Merancang konsep dan sistem reservasi F&B yang ditargetkan untuk kafe dan restoran.
-*   📱 **Mobile Development:** Membangun aplikasi berbasis Flutter dengan integrasi API.
-*   ⚔️ **Server Administration:** Mengelola dan mengonfigurasi *hybrid server* (Java/Bedrock) menggunakan Paper, Geyser, dan Floodgate.
+## What I'm Currently Working On:
+*   **Designly:** Mengembangkan *creative marketplace platform* menggunakan arsitektur Next.js di *frontend* serta integrasi Laravel dan Node.js di *backend*.
+*   **UKT Prediction Model:** Membangun sistem prediksi otomatis menggunakan algoritma *Support Vector Machine* (SVM) dengan Python.
+*   **Seatly:** Merancang konsep dan sistem reservasi F&B yang ditargetkan untuk kafe dan restoran.
+*   **Mobile Development:** Membangun aplikasi berbasis Flutter dengan integrasi API.
+*   **Server Administration:** Mengelola dan mengonfigurasi *hybrid server* (Java/Bedrock) menggunakan Paper, Geyser, dan Floodgate.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akzer0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agungkurrrrrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kurniawanagung2005@gmail.com) 
@@ -34,19 +34,8 @@ Perjalanan coding saya didorong oleh rasa ingin tahu yang tinggi, mulai dari mer
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AKZeqw&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AKZeqw&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKZeqw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AKZeqw&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AKZeqw&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AKZeqw&icon=10&color=13)](https://visitcount.itsvg.in)
