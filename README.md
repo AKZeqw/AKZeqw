@@ -38,4 +38,15 @@ Perjalanan coding saya didorong oleh rasa ingin tahu yang tinggi, mulai dari mer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AKZeqw&icon=10&color=13)](https://visitcount.itsvg.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AKZeqw&color=blue&style=for-the-badge&abbreviated=true)
+
+### 📊 GitHub Stats & Grade
+<p align="left">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=AKZeqw&show_icons=true&theme=tokyonight&hide_border=true" alt="Adya's GitHub Stats" />
+</p>
+
+### 🌐 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AKZeqw&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
